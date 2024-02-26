@@ -32,10 +32,12 @@ public class Main {
     }
 
     public static void printMenu() {
+        System.out.println("======= SELAMAT DATANG DI AKADEMIK FILKOM =======");
         System.out.println("1. Login (Jika kamu sudah memiliki akun)");
         System.out.println("2. Sign Up (Untuk kamu yang belum memiliki akun)");
         System.out.println("3. Log Out");
         System.out.println("4. Exit");
+        System.out.println("=================================================");
         System.out.print("SILAHKAN PILIH MENU YANG TERSEDIA : ");
     }
 
