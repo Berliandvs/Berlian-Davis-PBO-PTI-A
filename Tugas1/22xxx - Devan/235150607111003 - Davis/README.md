@@ -22,4 +22,4 @@ Fitur yang ditiru :
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/rXwSnJddNOw?si=RjARq_vfpkJIYXMW
