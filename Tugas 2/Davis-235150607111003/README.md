@@ -7,7 +7,7 @@ NIM  : 235150607111003
 ## 📤 Submission
 
 1. Folder Analisis Percobaan : [[Analisis Percobaan](./Analisis%20Percobaan/)](https://github.com/Berliandvs/Berlian-Davis-PBO-PTI-A/tree/master/Tugas%202/Davis-235150607111003/Analisis%20Percobaan)
-2. Folder Tugas Praktikum : [Tugas Praktikum](./Tugas%20Praktikum/)
+2. Folder Tugas Praktikum : [[Tugas Praktikum](./Tugas%20Praktikum/)](https://github.com/Berliandvs/Berlian-Davis-PBO-PTI-A/tree/master/Tugas%202/Davis-235150607111003/Tugas%20Praktikum)
 
 ### Gunakan tempalate dibawah apabila pengerjaan bagian tugas praktikum merupakan aplikasi interaktif, dan hapus kode baris ini, hapus template berikut beserta kata baris ini apabila tugas praktikum bukan aplikasi interaktif
 
