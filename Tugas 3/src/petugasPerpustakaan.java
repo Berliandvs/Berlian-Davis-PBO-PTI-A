@@ -1,4 +1,4 @@
-public class petugasPerpustakaan {
+public class PetugasPerpustakaan {
     private String namaPetugas;
     private String jabatanPetugas;
     private double gajiPetugas;
