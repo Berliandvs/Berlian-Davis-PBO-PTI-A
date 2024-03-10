@@ -14,7 +14,7 @@ public class Main {
         Perpustakaan perpustakaan = new Perpustakaan("Perpustakaan PTI", true, 2024, "Jl FILKOM UB");
 
         // Membuat objek petugasPerpustakaan
-        petugasPerpustakaan petugas = new petugasPerpustakaan();
+        PetugasPerpustakaan petugas = new PetugasPerpustakaan();
 
         // Menampilkan menu interaktif
         int pilihan;
