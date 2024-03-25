@@ -1,0 +1,28 @@
+A. Overloading Method  
+Pertanyaan  
+1. Lakukan percobaan diatas dan benahi jika menemukan kesalahan!  
+Tidak ada kesalahan
+ 
+2. Jika pada baris 7, pada parameter double value dan double value2 di hapus dan di ganti 
+menjadi int a dan int b apa yang terjadi? Jelaskan!  
+tidak terjadi masalah, dan sudah diganti dengan parameter int, dengan rumus di bawahnya juga diganti int untuk parameter
+ 
+3. Rubah method pada baris ketujuh menjadi method bertipe void, dan lakukan juga 
+perubahan main method.  
+Sudah ditambahkan dengan mennggunakan parameter Double dengan menghitung value sebagai parameter dengan di masukkan ke variabel nilai dan di print
+
+B. Overloading Constructor 
+Pertanyaan
+1. Lakukan percobaan diatas dan benahi jika menemukan kesalahan!  
+Tidak ada kesalahan
+ 
+2. Pada class lingkaran Tambahkan constructor dengan parameter int tinggi, apa yang terjadi 
+dan jelaskan!  
+Bisa ditambahkan di dalam kode program  
+  
+3. Pada class lingkaran tambahkan constrctor dengan tipe data String alas dan String tinggi, 
+kemudian tambahkan method untuk melakukan parsing atau perubahan tipe data dari 
+String menjadi integer. Setelah itu pada method main lakukan instansiasi objek dengan 
+nama objek Lstring dengan memanggil constructor bertipe data String. Jelaskan!
+Sudah ditambahkan, dengan syarat ketika ditambah constructor tipe data String, maka constructor tipe data int harus di komen atau dihapus,
+karena nantinya sistem akan membaca 2 kali dan terjadi eror pada sistem
