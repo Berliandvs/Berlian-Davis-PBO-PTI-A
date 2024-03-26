@@ -1,8 +1,8 @@
 # 📁 Tugas 4 : Constructor, Instance Method & Method Overloading
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Berlian Davis Dwi Mubarok             
+NIM  : 235150607111003
 
 ## 📤 Submission
 
