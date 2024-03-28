@@ -1,1 +1,15 @@
-
+package Encapsulation1;
+public class Test { 
+    public static void main(String [] args) { 
+        Student s1=new Student(); 
+        s1.setName("Enkapsulasi");
+        // NO 1 sebelumnya ("90") 
+        s1.setMark(90); 
+        // sebelumnya setName nomer 2
+        System.out.println("s1Name is "+ s1.getName()); 
+        // sebelumnya setMark nomer 2
+        System.out.println("s1Mark is "+ s1.getMark()); 
+        // sebelumnya name dan mark
+        System.out.println("name dan mark "+ s1.getName()+" "+s1.getMark()); 
+    } 
+} 
