@@ -37,10 +37,8 @@ public abstract class Employee {
 
     //NO 4
     protected double getBirthdayBonus() {
-        Calendar now = Calendar.getInstance(); //mengakses kalender
-        //mengambil nilai bulan dari objek kalender. dimulai dengan januari =0
+        Calendar now = Calendar.getInstance();
         int currentMonth = now.get(Calendar.MONTH) + 1;
-        //mengambil bulan ulang tahun karyawan
         int birthMonth = Integer.parseInt(getBirthDate().split("-")[1]);
         return currentMonth == birthMonth ? 100000 : 0;
     }
