@@ -23,8 +23,7 @@ public class HourlyEmployee extends Employee {
     public double getHours() {
         return hours;
     }
-
-    //modifikasi method awal
+    
     public double earnings() {
         if (getHours() <= 40)
             return getWage() * getHours() + getBirthdayBonus();
