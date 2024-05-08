@@ -1,6 +1,6 @@
 public class CommissionEmployee extends Employee {
-    private double grossSales;// penjualan per minggu
-    private double commissionRate;// komisi
+    private double grossSales;
+    private double commissionRate;
 
     public CommissionEmployee(String name, String noKTP, double sales, double rate, String tanggalLahir) {
         super(name, noKTP, tanggalLahir);
@@ -24,12 +24,6 @@ public class CommissionEmployee extends Employee {
         return commissionRate;
     }
 
-    //Method awal
-    // public double earnings() {
-    //     return getCommissionRate() * getGrossSales();
-    // }
-
-    //modisikasi method awal
     public double earnings() {
         return getCommissionRate() * getGrossSales() + getBirthdayBonus();
     }
