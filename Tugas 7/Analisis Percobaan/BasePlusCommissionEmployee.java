@@ -1,5 +1,5 @@
 public class BasePlusCommissionEmployee extends CommissionEmployee {
-    private double baseSalary;// gaji pokok tiap minggu
+    private double baseSalary;
 
     public BasePlusCommissionEmployee(String name, String noKTP, double sales, double rate, double salary, String tanggalLahir) {
         super(name, noKTP, sales, rate, tanggalLahir);
@@ -14,7 +14,6 @@ public class BasePlusCommissionEmployee extends CommissionEmployee {
         return baseSalary;
     }
 
-    //modifikasi method awal
     public double earnings() {
         return getBaseSalary() + super.earnings() + getBirthdayBonus(); //ditambah untuk bonus
     }
