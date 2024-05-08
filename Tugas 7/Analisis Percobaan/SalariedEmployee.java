@@ -1,5 +1,5 @@
 public class SalariedEmployee extends Employee {
-    private double weeklySalary; // gaji/minggu
+    private double weeklySalary; 
 
     public SalariedEmployee(String name, String noKTP, double salary, String tanggalLahir) {
         super(name, noKTP, tanggalLahir);
@@ -14,11 +14,6 @@ public class SalariedEmployee extends Employee {
         return weeklySalary;
     }
 
-    // public double earnings() {
-    //     return getWeeklySalary();
-    // }
-
-    //modifikasi method awal
     public double earnings() {
         return getWeeklySalary() + getBirthdayBonus();
     }
