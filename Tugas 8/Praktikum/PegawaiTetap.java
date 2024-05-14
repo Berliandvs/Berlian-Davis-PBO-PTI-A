@@ -1,4 +1,3 @@
-// Subclass PegawaiTetap
 class PegawaiTetap extends Pegawai {
     private double upah;
 
