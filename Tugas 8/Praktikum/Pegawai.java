@@ -1,4 +1,3 @@
-// Abstract class Pegawai
 abstract class Pegawai {
     private String nama;
     private String noKTP;
@@ -16,7 +15,7 @@ abstract class Pegawai {
         return noKTP;
     }
 
-    public abstract double gaji(); // Abstract method
+    public abstract double gaji(); 
 
     @Override
     public String toString() {
