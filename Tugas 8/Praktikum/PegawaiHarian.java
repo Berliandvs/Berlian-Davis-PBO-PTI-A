@@ -1,4 +1,3 @@
-// Subclass PegawaiHarian
 class PegawaiHarian extends Pegawai {
     private double upahPerJam;
     private int totalJam;
