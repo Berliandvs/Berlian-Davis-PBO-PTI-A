@@ -1,4 +1,3 @@
-// Subclass Sales
 class Sales extends Pegawai {
     private int penjualan;
     private double komisi;
