@@ -1,4 +1,3 @@
-// Class InternEmployee
 public class InternEmployee extends Employee implements Contract {
     private String university;
 
