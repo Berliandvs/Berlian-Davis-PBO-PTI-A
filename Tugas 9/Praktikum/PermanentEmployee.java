@@ -1,4 +1,3 @@
-// Class PermanentEmployee
 public class PermanentEmployee extends Employee {
     private String retirementPlan;
 
