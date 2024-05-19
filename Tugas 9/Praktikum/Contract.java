@@ -1,6 +1,5 @@
-// Interface Contract
 public interface Contract {
-    int contractDuration = 0; // nilai Default
+    int contractDuration = 0;
 
     void attendTrainingSession();
 
